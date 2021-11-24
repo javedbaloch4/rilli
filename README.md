@@ -1,2 +1,2 @@
 # rilli
-School ERP - (Software Engineer Subject Requirements)
+School ERP - (Software Engineering Subject Requirements)
